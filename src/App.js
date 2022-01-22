@@ -17,13 +17,15 @@ class App extends React.Component {
   }
 
   clickKey(letter) {
-    const guesses = this.state.guesses;
-    this.state.guesses.push(letter);
-    this.setState({
-      guesses: guesses,
-      answer: this.state.answer,
-      winning: letter === this.state.answer,
-    })
+    if (!this.state.winning) {
+      const guesses = this.state.guesses;
+      this.state.guesses.push(letter);
+      this.setState({
+        guesses: guesses,
+        answer: this.state.answer,
+        winning: letter === this.state.answer,
+      })
+    }
   }
 
   handleShare() {
