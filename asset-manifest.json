@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/monole/static/css/main.8f7b4f4f.css",
-    "main.js": "/monole/static/js/main.7c5f05dc.js",
+    "main.js": "/monole/static/js/main.c2799660.js",
     "static/js/787.ade4fd13.chunk.js": "/monole/static/js/787.ade4fd13.chunk.js",
     "index.html": "/monole/index.html",
     "main.8f7b4f4f.css.map": "/monole/static/css/main.8f7b4f4f.css.map",
-    "main.7c5f05dc.js.map": "/monole/static/js/main.7c5f05dc.js.map",
+    "main.c2799660.js.map": "/monole/static/js/main.c2799660.js.map",
     "787.ade4fd13.chunk.js.map": "/monole/static/js/787.ade4fd13.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8f7b4f4f.css",
-    "static/js/main.7c5f05dc.js"
+    "static/js/main.c2799660.js"
   ]
 }
