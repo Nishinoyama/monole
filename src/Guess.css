@@ -1,0 +1,36 @@
+.None {
+  margin: 2px;
+  font-size: 60pt;
+  border: 2px solid gray;
+  align-items: center;
+  display: flex;
+  font-weight: 700;
+  height: 80pt;
+  width: 80pt;
+  justify-content: center;
+}
+
+.Correct {
+  margin: 2px;
+  font-size: 60pt;
+  border: 2px solid gray;
+  background: #6aaa64;
+  align-items: center;
+  display: flex;
+  font-weight: 700;
+  height: 80pt;
+  width: 80pt;
+  justify-content: center;
+}
+
+.Wrong {
+  margin: 2px;
+  font-size: 60pt;
+  border: 2px solid gray;
+  align-items: center;
+  display: flex;
+  font-weight: 700;
+  height: 80pt;
+  width: 80pt;
+  justify-content: center;
+}

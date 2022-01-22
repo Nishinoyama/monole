@@ -1,0 +1,15 @@
+.Key {
+  margin-top: 2px;
+  margin-left: 2px;
+  margin-right: 2px;
+  font-size: 32pt;
+  align-items: center;
+  background-color: #d3d6da;
+  border-radius: 10px;
+  display: flex;
+  font-weight: 700;
+  height: 60pt;
+  width: 40pt;
+  justify-content: center;
+  cursor: pointer;
+}
